@@ -1,0 +1,13 @@
+--swiftversion 4.2
+--binarygrouping none
+--commas inline
+--comments ignore
+--decimalgrouping none
+--elseposition next-line
+--hexgrouping none
+--octalgrouping none
+--patternlet inline
+--ranges no-space
+--stripunusedargs closure-only
+--wraparguments after-first
+--wrapcollections before-first
